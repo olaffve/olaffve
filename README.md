@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Olaff Velazquez-Escalante 👋
 
-<!--
-**olaffve/olaffve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer and bilingual Full-Stack .NET Developer based in Holland, Michigan.
 
-Here are some ideas to get you started:
+I have 6+ years of experience turning complex requirements into secure, reliable digital products across regulatory compliance, civic education, financial reporting, and tax technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **Backend:** C#, .NET, REST APIs, SQL Server, PostgreSQL
+- **Frontend:** Angular, React, TypeScript, Tailwind CSS
+- **Platforms and delivery:** Azure, Supabase, Docker, Kafka
+- **Engineering:** Product architecture, testing, security, performance, and modernization
+
+## Featured project
+
+### [Natly](https://www.natly.org/)
+
+A bilingual civic-education platform designed to help Spanish-speaking immigrants prepare for the U.S. naturalization process through quizzes, flashcards, study tools, interview simulations, and personalized AI-assisted learning.
+
+I lead Natly's product strategy, application architecture, UI/UX, and end-to-end full-stack development.
+
+## Connect with me
+
+- Portfolio: [olaffve.com](https://olaffve.com)
+- LinkedIn: [linkedin.com/in/olaffve](https://www.linkedin.com/in/olaffve/)
+- Email: [olaffve@outlook.com](mailto:olaffve@outlook.com)
+
+---
+
+**Ideas → System → Impact**
